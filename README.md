@@ -1,6 +1,5 @@
 Minijava Compiler
 =================
-with Lambda Function Support
 
 Description
 -----------
